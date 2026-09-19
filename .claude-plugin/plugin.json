@@ -1,0 +1,11 @@
+{
+  "name": "facebook-autobusiness",
+  "description": "Manage your product catalog, create and publish marketing campaigns, reply to Facebook comments and Messenger conversations, track leads and storefront analytics, run courier delivery through Steadfast, and sync with Daraz and Shopify, all from one connector built for merchants selling through Facebook. Works in Cowork and Claude Code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Towsif Ahamed"
+  },
+  "homepage": "https://autobusiness.daamdekhi.com",
+  "repository": "https://github.com/TowsifAhamed/autobusiness-mcp-plugin",
+  "license": "MIT"
+}

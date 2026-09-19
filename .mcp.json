@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "autobusiness": {
+      "type": "http",
+      "url": "https://autobusiness-mcp.daamdekhi.com/mcp"
+    }
+  }
+}
