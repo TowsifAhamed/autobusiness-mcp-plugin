@@ -1,4 +1,4 @@
-# Facebook AutoBusiness — Claude plugin
+# Seller AutoBusiness — Claude plugin
 
 Connects Claude to a [Seller AutoBusiness](https://autobusiness.daamdekhi.com)
 account so you can run day-to-day selling operations for a Facebook-based
@@ -36,7 +36,7 @@ Once the plugin is listed in the community marketplace:
 
 ```
 /plugin marketplace add anthropics/claude-plugins-community
-/plugin install facebook-autobusiness@claude-community
+/plugin install seller-autobusiness@claude-community
 ```
 
 To try it in Claude Code before then, clone this repo and run:
